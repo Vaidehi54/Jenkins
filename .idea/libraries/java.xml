@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="java">
+    <CLASSES>
+      <root url="jar://C:/Soft/selenium-server-standalone-3.11.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../JerkinNopCommerce/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../JerkinNopCommerce/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
