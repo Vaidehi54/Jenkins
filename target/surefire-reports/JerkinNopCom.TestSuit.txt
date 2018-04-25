@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: JerkinNopCom.TestSuit
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 2, Time elapsed: 0.736 s <<< FAILURE! - in JerkinNopCom.TestSuit
+openBrowser(JerkinNopCom.TestSuit)  Time elapsed: 0.46 s  <<< FAILURE!
+java.lang.NoClassDefFoundError: org/openqa/selenium/ie/InternetExplorerDriver
+Caused by: java.lang.ClassNotFoundException: org.openqa.selenium.ie.InternetExplorerDriver
+

@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 3, Time elapsed: 0.625 s <<< FAILURE! - in TestSuite
+openBrowser(JerkinNopCom.TestSuit)  Time elapsed: 0.457 s  <<< FAILURE!
+java.lang.NullPointerException
+
